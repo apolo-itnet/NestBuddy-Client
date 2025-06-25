@@ -55,7 +55,6 @@ JWT_SECRET=your_secret_key
 ```
 
 --- 
-<b> </b>
 ### ✨ Key Features
 - 🔐 <b>User Authentication</b> : Email/password & Google login using Firebase Auth.
 - 📝 <b>Add/Edit/Delete Posts </b>: Authenticated users can manage their own roommate listings.
@@ -112,26 +111,30 @@ DB_PASS=yourMongoPass
 | `/details/:id`        | Roommate post detail view            | ✅         |
 | `/like/:id`           | Like functionality with reveal logic | ✅         |
 
-
+---
 ### ✏️ CRUD Features
 **✅ Create** : Add a new roommate post. <br>
 **✅ Read** : View all public posts & individual details. <br>
 **✅ Update** : Edit own posts only. <br>
 **✅ Delete** : Delete your own roommate listing. <br>
 
+---
 ### 📝 Extra Notes
 - Users **cannot like** their own posts. <br>
 - **Contact numbers reveal** only after liking a post. <br>
 - Proper routing ensures **no page refresh issues.** <br>
 - **Password validations** include uppercase, symbol, and length checks. <br>
 
+---
 ### 💡 Inspiration
 This project was inspired by real-world roommate-finding struggles. <br> 
 The goal was to create a clean, secure, and efficient platform that helps people quickly connect with compatible roommates.
 
+---
 ### 📬 Submission
 This project is submitted as part of Assignment-11 of the MERN Stack Developer Course.
 
+---
 ### 👨‍💻 Developer Info
 **Apolo Barua Apurbo**   <br> 
 💼 MERN Stack Web Developer  <br> 
