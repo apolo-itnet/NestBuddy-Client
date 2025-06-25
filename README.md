@@ -132,14 +132,13 @@ The goal was to create a clean, secure, and efficient platform that helps people
 
 ---
 ### 📬 Submission
-This project is submitted as part of Assignment-11 of the MERN Stack Developer Course.
+This project is submitted as part of Assignment-10 of the MERN Stack Developer Course.
 
 ---
 ### 👨‍💻 Developer Info
 **Apolo Barua Apurbo**   <br> 
 💼 MERN Stack Web Developer  <br> 
-📧 **Email**: your.email@example.com  <br> 
-🌐 **Portfolio**: yourportfolio.com  <br> 
+📧 **Email**: apolo.itnet@gmail.com.com  <br> 
 📍 **Location**: Bangladesh  <br> 
 
 
