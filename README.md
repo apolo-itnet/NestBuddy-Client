@@ -6,9 +6,9 @@ A modern full-stack platform to help individuals find compatible roommates based
 
 ## 🌐 Live Links
 
-🔗 **Live Website**: [https://roommatefinder-client.web.app](https://roommatefinder-client.web.app)  
-🔗 **Client GitHub**: [https://github.com/your-username/roommate-finder-client](https://github.com/your-username/roommate-finder-client)  
-🔗 **Server GitHub**: [https://github.com/your-username/roommate-finder-server](https://github.com/your-username/roommate-finder-server)
+🔗 **Live Website**: https://roommate-finder-8c107.web.app  
+🔗 **Client GitHub**: https://github.com/apolo-itnet/NestBuddy-Client.git
+🔗 **Server GitHub**: https://github.com/Programming-Hero-Web-Course4/b11a10-server-side-apolo-itnet
 
 ---
 
